@@ -1,0 +1,1324 @@
+{
+  "total_records": 300,
+  "total_qty": 3444,
+  "total_returns": 33,
+  "total_net_rev": 3217100,
+  "daily": {
+    "labels": [
+      "2026-09-01",
+      "2026-09-02",
+      "2026-09-03",
+      "2026-09-04",
+      "2026-09-05",
+      "2026-09-06",
+      "2026-09-07",
+      "2026-09-08",
+      "2026-09-09",
+      "2026-09-10",
+      "2026-09-11",
+      "2026-09-12",
+      "2026-09-13",
+      "2026-09-14",
+      "2026-09-15",
+      "2026-09-16",
+      "2026-09-17",
+      "2026-09-18",
+      "2026-09-19",
+      "2026-09-20",
+      "2026-09-21",
+      "2026-09-22",
+      "2026-09-23",
+      "2026-09-24",
+      "2026-09-25",
+      "2026-09-26",
+      "2026-09-27",
+      "2026-09-28",
+      "2026-09-29",
+      "2026-09-30"
+    ],
+    "values": [
+      97600.0,
+      105650.0,
+      97400.0,
+      84150.0,
+      113000.0,
+      108650.0,
+      107550.0,
+      120050.0,
+      101500.0,
+      124150.0,
+      116900.0,
+      103250.0,
+      123300.0,
+      106250.0,
+      113600.0,
+      107100.0,
+      93500.0,
+      113650.0,
+      97600.0,
+      105650.0,
+      97400.0,
+      84150.0,
+      113000.0,
+      108650.0,
+      107550.0,
+      120050.0,
+      101500.0,
+      124150.0,
+      116900.0,
+      103250.0
+    ]
+  },
+  "product": {
+    "labels": [
+      "手機支架",
+      "無線滑鼠",
+      "USB集線器",
+      "充電器",
+      "筆電支架",
+      "行動電源",
+      "網路攝影機",
+      "機械鍵盤",
+      "藍牙喇叭",
+      "藍牙耳機"
+    ],
+    "values": [
+      102300.0,
+      177000.0,
+      226200.0,
+      230300.0,
+      268800.0,
+      301500.0,
+      382800.0,
+      410400.0,
+      513000.0,
+      604800.0
+    ]
+  },
+  "category": {
+    "labels": [
+      "影音設備",
+      "行動配件",
+      "電腦周邊"
+    ],
+    "values": [
+      1500600.0,
+      634100.0,
+      1082400.0
+    ]
+  },
+  "channel": {
+    "labels": [
+      "實體門市",
+      "校園團購",
+      "網路商店"
+    ],
+    "values": [
+      1080850.0,
+      1094350.0,
+      1041900.0
+    ]
+  },
+  "scatter": [
+    {
+      "quantity": 10,
+      "net_revenue": 5000.0
+    },
+    {
+      "quantity": 3,
+      "net_revenue": 3600.0
+    },
+    {
+      "quantity": 14,
+      "net_revenue": 9100.0
+    },
+    {
+      "quantity": 7,
+      "net_revenue": 12600.0
+    },
+    {
+      "quantity": 18,
+      "net_revenue": 27000.0
+    },
+    {
+      "quantity": 11,
+      "net_revenue": 12100.0
+    },
+    {
+      "quantity": 4,
+      "net_revenue": 3600.0
+    },
+    {
+      "quantity": 15,
+      "net_revenue": 4500.0
+    },
+    {
+      "quantity": 8,
+      "net_revenue": 4900.0
+    },
+    {
+      "quantity": 19,
+      "net_revenue": 15200.0
+    },
+    {
+      "quantity": 17,
+      "net_revenue": 8500.0
+    },
+    {
+      "quantity": 10,
+      "net_revenue": 12000.0
+    },
+    {
+      "quantity": 3,
+      "net_revenue": 1950.0
+    },
+    {
+      "quantity": 14,
+      "net_revenue": 25200.0
+    },
+    {
+      "quantity": 7,
+      "net_revenue": 10500.0
+    },
+    {
+      "quantity": 18,
+      "net_revenue": 19800.0
+    },
+    {
+      "quantity": 11,
+      "net_revenue": 9900.0
+    },
+    {
+      "quantity": 4,
+      "net_revenue": 900.0
+    },
+    {
+      "quantity": 15,
+      "net_revenue": 10500.0
+    },
+    {
+      "quantity": 8,
+      "net_revenue": 6400.0
+    },
+    {
+      "quantity": 6,
+      "net_revenue": 3000.0
+    },
+    {
+      "quantity": 17,
+      "net_revenue": 20400.0
+    },
+    {
+      "quantity": 10,
+      "net_revenue": 6500.0
+    },
+    {
+      "quantity": 3,
+      "net_revenue": 5400.0
+    },
+    {
+      "quantity": 14,
+      "net_revenue": 21000.0
+    },
+    {
+      "quantity": 7,
+      "net_revenue": 7700.0
+    },
+    {
+      "quantity": 18,
+      "net_revenue": 15300.0
+    },
+    {
+      "quantity": 11,
+      "net_revenue": 3300.0
+    },
+    {
+      "quantity": 4,
+      "net_revenue": 2800.0
+    },
+    {
+      "quantity": 15,
+      "net_revenue": 12000.0
+    },
+    {
+      "quantity": 13,
+      "net_revenue": 6500.0
+    },
+    {
+      "quantity": 6,
+      "net_revenue": 7200.0
+    },
+    {
+      "quantity": 17,
+      "net_revenue": 11050.0
+    },
+    {
+      "quantity": 10,
+      "net_revenue": 18000.0
+    },
+    {
+      "quantity": 3,
+      "net_revenue": 4500.0
+    },
+    {
+      "quantity": 14,
+      "net_revenue": 14300.0
+    },
+    {
+      "quantity": 7,
+      "net_revenue": 6300.0
+    },
+    {
+      "quantity": 18,
+      "net_revenue": 5400.0
+    },
+    {
+      "quantity": 11,
+      "net_revenue": 7700.0
+    },
+    {
+      "quantity": 4,
+      "net_revenue": 3200.0
+    },
+    {
+      "quantity": 20,
+      "net_revenue": 10000.0
+    },
+    {
+      "quantity": 13,
+      "net_revenue": 15600.0
+    },
+    {
+      "quantity": 6,
+      "net_revenue": 3900.0
+    },
+    {
+      "quantity": 17,
+      "net_revenue": 30600.0
+    },
+    {
+      "quantity": 10,
+      "net_revenue": 13500.0
+    },
+    {
+      "quantity": 3,
+      "net_revenue": 3300.0
+    },
+    {
+      "quantity": 14,
+      "net_revenue": 12600.0
+    },
+    {
+      "quantity": 7,
+      "net_revenue": 2100.0
+    },
+    {
+      "quantity": 18,
+      "net_revenue": 12600.0
+    },
+    {
+      "quantity": 11,
+      "net_revenue": 8800.0
+    },
+    {
+      "quantity": 9,
+      "net_revenue": 4500.0
+    },
+    {
+      "quantity": 20,
+      "net_revenue": 24000.0
+    },
+    {
+      "quantity": 13,
+      "net_revenue": 8450.0
+    },
+    {
+      "quantity": 6,
+      "net_revenue": 9000.0
+    },
+    {
+      "quantity": 17,
+      "net_revenue": 25500.0
+    },
+    {
+      "quantity": 10,
+      "net_revenue": 11000.0
+    },
+    {
+      "quantity": 3,
+      "net_revenue": 2700.0
+    },
+    {
+      "quantity": 14,
+      "net_revenue": 4200.0
+    },
+    {
+      "quantity": 7,
+      "net_revenue": 4900.0
+    },
+    {
+      "quantity": 18,
+      "net_revenue": 14400.0
+    },
+    {
+      "quantity": 16,
+      "net_revenue": 8000.0
+    },
+    {
+      "quantity": 9,
+      "net_revenue": 10800.0
+    },
+    {
+      "quantity": 20,
+      "net_revenue": 12350.0
+    },
+    {
+      "quantity": 13,
+      "net_revenue": 23400.0
+    },
+    {
+      "quantity": 6,
+      "net_revenue": 9000.0
+    },
+    {
+      "quantity": 17,
+      "net_revenue": 18700.0
+    },
+    {
+      "quantity": 10,
+      "net_revenue": 9000.0
+    },
+    {
+      "quantity": 3,
+      "net_revenue": 900.0
+    },
+    {
+      "quantity": 14,
+      "net_revenue": 9800.0
+    },
+    {
+      "quantity": 7,
+      "net_revenue": 5600.0
+    },
+    {
+      "quantity": 5,
+      "net_revenue": 2500.0
+    },
+    {
+      "quantity": 16,
+      "net_revenue": 18000.0
+    },
+    {
+      "quantity": 9,
+      "net_revenue": 5850.0
+    },
+    {
+      "quantity": 20,
+      "net_revenue": 36000.0
+    },
+    {
+      "quantity": 13,
+      "net_revenue": 19500.0
+    },
+    {
+      "quantity": 6,
+      "net_revenue": 6600.0
+    },
+    {
+      "quantity": 17,
+      "net_revenue": 15300.0
+    },
+    {
+      "quantity": 10,
+      "net_revenue": 3000.0
+    },
+    {
+      "quantity": 3,
+      "net_revenue": 2100.0
+    },
+    {
+      "quantity": 14,
+      "net_revenue": 11200.0
+    },
+    {
+      "quantity": 12,
+      "net_revenue": 5500.0
+    },
+    {
+      "quantity": 5,
+      "net_revenue": 6000.0
+    },
+    {
+      "quantity": 16,
+      "net_revenue": 10400.0
+    },
+    {
+      "quantity": 9,
+      "net_revenue": 16200.0
+    },
+    {
+      "quantity": 20,
+      "net_revenue": 30000.0
+    },
+    {
+      "quantity": 13,
+      "net_revenue": 14300.0
+    },
+    {
+      "quantity": 6,
+      "net_revenue": 5400.0
+    },
+    {
+      "quantity": 17,
+      "net_revenue": 5100.0
+    },
+    {
+      "quantity": 10,
+      "net_revenue": 7000.0
+    },
+    {
+      "quantity": 3,
+      "net_revenue": 1600.0
+    },
+    {
+      "quantity": 19,
+      "net_revenue": 9500.0
+    },
+    {
+      "quantity": 12,
+      "net_revenue": 14400.0
+    },
+    {
+      "quantity": 5,
+      "net_revenue": 3250.0
+    },
+    {
+      "quantity": 16,
+      "net_revenue": 28800.0
+    },
+    {
+      "quantity": 9,
+      "net_revenue": 13500.0
+    },
+    {
+      "quantity": 20,
+      "net_revenue": 22000.0
+    },
+    {
+      "quantity": 13,
+      "net_revenue": 11700.0
+    },
+    {
+      "quantity": 6,
+      "net_revenue": 1800.0
+    },
+    {
+      "quantity": 17,
+      "net_revenue": 11200.0
+    },
+    {
+      "quantity": 10,
+      "net_revenue": 8000.0
+    },
+    {
+      "quantity": 8,
+      "net_revenue": 4000.0
+    },
+    {
+      "quantity": 19,
+      "net_revenue": 22800.0
+    },
+    {
+      "quantity": 12,
+      "net_revenue": 7800.0
+    },
+    {
+      "quantity": 5,
+      "net_revenue": 9000.0
+    },
+    {
+      "quantity": 16,
+      "net_revenue": 24000.0
+    },
+    {
+      "quantity": 9,
+      "net_revenue": 9900.0
+    },
+    {
+      "quantity": 20,
+      "net_revenue": 18000.0
+    },
+    {
+      "quantity": 13,
+      "net_revenue": 3600.0
+    },
+    {
+      "quantity": 6,
+      "net_revenue": 4200.0
+    },
+    {
+      "quantity": 17,
+      "net_revenue": 13600.0
+    },
+    {
+      "quantity": 15,
+      "net_revenue": 7500.0
+    },
+    {
+      "quantity": 8,
+      "net_revenue": 9600.0
+    },
+    {
+      "quantity": 19,
+      "net_revenue": 12350.0
+    },
+    {
+      "quantity": 12,
+      "net_revenue": 21600.0
+    },
+    {
+      "quantity": 5,
+      "net_revenue": 7500.0
+    },
+    {
+      "quantity": 16,
+      "net_revenue": 17600.0
+    },
+    {
+      "quantity": 9,
+      "net_revenue": 7200.0
+    },
+    {
+      "quantity": 20,
+      "net_revenue": 6000.0
+    },
+    {
+      "quantity": 13,
+      "net_revenue": 9100.0
+    },
+    {
+      "quantity": 6,
+      "net_revenue": 4800.0
+    },
+    {
+      "quantity": 4,
+      "net_revenue": 2000.0
+    },
+    {
+      "quantity": 15,
+      "net_revenue": 18000.0
+    },
+    {
+      "quantity": 8,
+      "net_revenue": 5200.0
+    },
+    {
+      "quantity": 19,
+      "net_revenue": 34200.0
+    },
+    {
+      "quantity": 12,
+      "net_revenue": 18000.0
+    },
+    {
+      "quantity": 5,
+      "net_revenue": 4400.0
+    },
+    {
+      "quantity": 16,
+      "net_revenue": 14400.0
+    },
+    {
+      "quantity": 9,
+      "net_revenue": 2700.0
+    },
+    {
+      "quantity": 20,
+      "net_revenue": 14000.0
+    },
+    {
+      "quantity": 13,
+      "net_revenue": 10400.0
+    },
+    {
+      "quantity": 11,
+      "net_revenue": 5500.0
+    },
+    {
+      "quantity": 4,
+      "net_revenue": 4800.0
+    },
+    {
+      "quantity": 15,
+      "net_revenue": 9750.0
+    },
+    {
+      "quantity": 8,
+      "net_revenue": 14400.0
+    },
+    {
+      "quantity": 19,
+      "net_revenue": 27000.0
+    },
+    {
+      "quantity": 12,
+      "net_revenue": 13200.0
+    },
+    {
+      "quantity": 5,
+      "net_revenue": 4500.0
+    },
+    {
+      "quantity": 16,
+      "net_revenue": 4800.0
+    },
+    {
+      "quantity": 9,
+      "net_revenue": 6300.0
+    },
+    {
+      "quantity": 20,
+      "net_revenue": 16000.0
+    },
+    {
+      "quantity": 18,
+      "net_revenue": 9000.0
+    },
+    {
+      "quantity": 11,
+      "net_revenue": 13200.0
+    },
+    {
+      "quantity": 4,
+      "net_revenue": 2600.0
+    },
+    {
+      "quantity": 15,
+      "net_revenue": 25200.0
+    },
+    {
+      "quantity": 8,
+      "net_revenue": 12000.0
+    },
+    {
+      "quantity": 19,
+      "net_revenue": 20900.0
+    },
+    {
+      "quantity": 12,
+      "net_revenue": 10800.0
+    },
+    {
+      "quantity": 5,
+      "net_revenue": 1500.0
+    },
+    {
+      "quantity": 16,
+      "net_revenue": 11200.0
+    },
+    {
+      "quantity": 9,
+      "net_revenue": 7200.0
+    },
+    {
+      "quantity": 7,
+      "net_revenue": 3500.0
+    },
+    {
+      "quantity": 18,
+      "net_revenue": 21600.0
+    },
+    {
+      "quantity": 11,
+      "net_revenue": 6500.0
+    },
+    {
+      "quantity": 4,
+      "net_revenue": 7200.0
+    },
+    {
+      "quantity": 15,
+      "net_revenue": 22500.0
+    },
+    {
+      "quantity": 8,
+      "net_revenue": 8800.0
+    },
+    {
+      "quantity": 19,
+      "net_revenue": 17100.0
+    },
+    {
+      "quantity": 12,
+      "net_revenue": 3600.0
+    },
+    {
+      "quantity": 5,
+      "net_revenue": 3500.0
+    },
+    {
+      "quantity": 16,
+      "net_revenue": 12800.0
+    },
+    {
+      "quantity": 14,
+      "net_revenue": 7000.0
+    },
+    {
+      "quantity": 7,
+      "net_revenue": 7200.0
+    },
+    {
+      "quantity": 18,
+      "net_revenue": 11700.0
+    },
+    {
+      "quantity": 11,
+      "net_revenue": 19800.0
+    },
+    {
+      "quantity": 4,
+      "net_revenue": 6000.0
+    },
+    {
+      "quantity": 15,
+      "net_revenue": 16500.0
+    },
+    {
+      "quantity": 8,
+      "net_revenue": 7200.0
+    },
+    {
+      "quantity": 19,
+      "net_revenue": 5700.0
+    },
+    {
+      "quantity": 12,
+      "net_revenue": 8400.0
+    },
+    {
+      "quantity": 5,
+      "net_revenue": 4000.0
+    },
+    {
+      "quantity": 3,
+      "net_revenue": 1000.0
+    },
+    {
+      "quantity": 14,
+      "net_revenue": 16800.0
+    },
+    {
+      "quantity": 7,
+      "net_revenue": 4550.0
+    },
+    {
+      "quantity": 18,
+      "net_revenue": 32400.0
+    },
+    {
+      "quantity": 11,
+      "net_revenue": 16500.0
+    },
+    {
+      "quantity": 4,
+      "net_revenue": 4400.0
+    },
+    {
+      "quantity": 15,
+      "net_revenue": 13500.0
+    },
+    {
+      "quantity": 8,
+      "net_revenue": 2400.0
+    },
+    {
+      "quantity": 19,
+      "net_revenue": 13300.0
+    },
+    {
+      "quantity": 12,
+      "net_revenue": 8800.0
+    },
+    {
+      "quantity": 10,
+      "net_revenue": 5000.0
+    },
+    {
+      "quantity": 3,
+      "net_revenue": 3600.0
+    },
+    {
+      "quantity": 14,
+      "net_revenue": 9100.0
+    },
+    {
+      "quantity": 7,
+      "net_revenue": 12600.0
+    },
+    {
+      "quantity": 18,
+      "net_revenue": 27000.0
+    },
+    {
+      "quantity": 11,
+      "net_revenue": 12100.0
+    },
+    {
+      "quantity": 4,
+      "net_revenue": 3600.0
+    },
+    {
+      "quantity": 15,
+      "net_revenue": 4500.0
+    },
+    {
+      "quantity": 8,
+      "net_revenue": 4900.0
+    },
+    {
+      "quantity": 19,
+      "net_revenue": 15200.0
+    },
+    {
+      "quantity": 17,
+      "net_revenue": 8500.0
+    },
+    {
+      "quantity": 10,
+      "net_revenue": 12000.0
+    },
+    {
+      "quantity": 3,
+      "net_revenue": 1950.0
+    },
+    {
+      "quantity": 14,
+      "net_revenue": 25200.0
+    },
+    {
+      "quantity": 7,
+      "net_revenue": 10500.0
+    },
+    {
+      "quantity": 18,
+      "net_revenue": 19800.0
+    },
+    {
+      "quantity": 11,
+      "net_revenue": 9900.0
+    },
+    {
+      "quantity": 4,
+      "net_revenue": 900.0
+    },
+    {
+      "quantity": 15,
+      "net_revenue": 10500.0
+    },
+    {
+      "quantity": 8,
+      "net_revenue": 6400.0
+    },
+    {
+      "quantity": 6,
+      "net_revenue": 3000.0
+    },
+    {
+      "quantity": 17,
+      "net_revenue": 20400.0
+    },
+    {
+      "quantity": 10,
+      "net_revenue": 6500.0
+    },
+    {
+      "quantity": 3,
+      "net_revenue": 5400.0
+    },
+    {
+      "quantity": 14,
+      "net_revenue": 21000.0
+    },
+    {
+      "quantity": 7,
+      "net_revenue": 7700.0
+    },
+    {
+      "quantity": 18,
+      "net_revenue": 15300.0
+    },
+    {
+      "quantity": 11,
+      "net_revenue": 3300.0
+    },
+    {
+      "quantity": 4,
+      "net_revenue": 2800.0
+    },
+    {
+      "quantity": 15,
+      "net_revenue": 12000.0
+    },
+    {
+      "quantity": 13,
+      "net_revenue": 6500.0
+    },
+    {
+      "quantity": 6,
+      "net_revenue": 7200.0
+    },
+    {
+      "quantity": 17,
+      "net_revenue": 11050.0
+    },
+    {
+      "quantity": 10,
+      "net_revenue": 18000.0
+    },
+    {
+      "quantity": 3,
+      "net_revenue": 4500.0
+    },
+    {
+      "quantity": 14,
+      "net_revenue": 14300.0
+    },
+    {
+      "quantity": 7,
+      "net_revenue": 6300.0
+    },
+    {
+      "quantity": 18,
+      "net_revenue": 5400.0
+    },
+    {
+      "quantity": 11,
+      "net_revenue": 7700.0
+    },
+    {
+      "quantity": 4,
+      "net_revenue": 3200.0
+    },
+    {
+      "quantity": 20,
+      "net_revenue": 10000.0
+    },
+    {
+      "quantity": 13,
+      "net_revenue": 15600.0
+    },
+    {
+      "quantity": 6,
+      "net_revenue": 3900.0
+    },
+    {
+      "quantity": 17,
+      "net_revenue": 30600.0
+    },
+    {
+      "quantity": 10,
+      "net_revenue": 13500.0
+    },
+    {
+      "quantity": 3,
+      "net_revenue": 3300.0
+    },
+    {
+      "quantity": 14,
+      "net_revenue": 12600.0
+    },
+    {
+      "quantity": 7,
+      "net_revenue": 2100.0
+    },
+    {
+      "quantity": 18,
+      "net_revenue": 12600.0
+    },
+    {
+      "quantity": 11,
+      "net_revenue": 8800.0
+    },
+    {
+      "quantity": 9,
+      "net_revenue": 4500.0
+    },
+    {
+      "quantity": 20,
+      "net_revenue": 24000.0
+    },
+    {
+      "quantity": 13,
+      "net_revenue": 8450.0
+    },
+    {
+      "quantity": 6,
+      "net_revenue": 9000.0
+    },
+    {
+      "quantity": 17,
+      "net_revenue": 25500.0
+    },
+    {
+      "quantity": 10,
+      "net_revenue": 11000.0
+    },
+    {
+      "quantity": 3,
+      "net_revenue": 2700.0
+    },
+    {
+      "quantity": 14,
+      "net_revenue": 4200.0
+    },
+    {
+      "quantity": 7,
+      "net_revenue": 4900.0
+    },
+    {
+      "quantity": 18,
+      "net_revenue": 14400.0
+    },
+    {
+      "quantity": 16,
+      "net_revenue": 8000.0
+    },
+    {
+      "quantity": 9,
+      "net_revenue": 10800.0
+    },
+    {
+      "quantity": 20,
+      "net_revenue": 12350.0
+    },
+    {
+      "quantity": 13,
+      "net_revenue": 23400.0
+    },
+    {
+      "quantity": 6,
+      "net_revenue": 9000.0
+    },
+    {
+      "quantity": 17,
+      "net_revenue": 18700.0
+    },
+    {
+      "quantity": 10,
+      "net_revenue": 9000.0
+    },
+    {
+      "quantity": 3,
+      "net_revenue": 900.0
+    },
+    {
+      "quantity": 14,
+      "net_revenue": 9800.0
+    },
+    {
+      "quantity": 7,
+      "net_revenue": 5600.0
+    },
+    {
+      "quantity": 5,
+      "net_revenue": 2500.0
+    },
+    {
+      "quantity": 16,
+      "net_revenue": 18000.0
+    },
+    {
+      "quantity": 9,
+      "net_revenue": 5850.0
+    },
+    {
+      "quantity": 20,
+      "net_revenue": 36000.0
+    },
+    {
+      "quantity": 13,
+      "net_revenue": 19500.0
+    },
+    {
+      "quantity": 6,
+      "net_revenue": 6600.0
+    },
+    {
+      "quantity": 17,
+      "net_revenue": 15300.0
+    },
+    {
+      "quantity": 10,
+      "net_revenue": 3000.0
+    },
+    {
+      "quantity": 3,
+      "net_revenue": 2100.0
+    },
+    {
+      "quantity": 14,
+      "net_revenue": 11200.0
+    },
+    {
+      "quantity": 12,
+      "net_revenue": 5500.0
+    },
+    {
+      "quantity": 5,
+      "net_revenue": 6000.0
+    },
+    {
+      "quantity": 16,
+      "net_revenue": 10400.0
+    },
+    {
+      "quantity": 9,
+      "net_revenue": 16200.0
+    },
+    {
+      "quantity": 20,
+      "net_revenue": 30000.0
+    },
+    {
+      "quantity": 13,
+      "net_revenue": 14300.0
+    },
+    {
+      "quantity": 6,
+      "net_revenue": 5400.0
+    },
+    {
+      "quantity": 17,
+      "net_revenue": 5100.0
+    },
+    {
+      "quantity": 10,
+      "net_revenue": 7000.0
+    },
+    {
+      "quantity": 3,
+      "net_revenue": 1600.0
+    },
+    {
+      "quantity": 19,
+      "net_revenue": 9500.0
+    },
+    {
+      "quantity": 12,
+      "net_revenue": 14400.0
+    },
+    {
+      "quantity": 5,
+      "net_revenue": 3250.0
+    },
+    {
+      "quantity": 16,
+      "net_revenue": 28800.0
+    },
+    {
+      "quantity": 9,
+      "net_revenue": 13500.0
+    },
+    {
+      "quantity": 20,
+      "net_revenue": 22000.0
+    },
+    {
+      "quantity": 13,
+      "net_revenue": 11700.0
+    },
+    {
+      "quantity": 6,
+      "net_revenue": 1800.0
+    },
+    {
+      "quantity": 17,
+      "net_revenue": 11200.0
+    },
+    {
+      "quantity": 10,
+      "net_revenue": 8000.0
+    },
+    {
+      "quantity": 8,
+      "net_revenue": 4000.0
+    },
+    {
+      "quantity": 19,
+      "net_revenue": 22800.0
+    },
+    {
+      "quantity": 12,
+      "net_revenue": 7800.0
+    },
+    {
+      "quantity": 5,
+      "net_revenue": 9000.0
+    },
+    {
+      "quantity": 16,
+      "net_revenue": 24000.0
+    },
+    {
+      "quantity": 9,
+      "net_revenue": 9900.0
+    },
+    {
+      "quantity": 20,
+      "net_revenue": 18000.0
+    },
+    {
+      "quantity": 13,
+      "net_revenue": 3600.0
+    },
+    {
+      "quantity": 6,
+      "net_revenue": 4200.0
+    },
+    {
+      "quantity": 17,
+      "net_revenue": 13600.0
+    },
+    {
+      "quantity": 15,
+      "net_revenue": 7500.0
+    },
+    {
+      "quantity": 8,
+      "net_revenue": 9600.0
+    },
+    {
+      "quantity": 19,
+      "net_revenue": 12350.0
+    },
+    {
+      "quantity": 12,
+      "net_revenue": 21600.0
+    },
+    {
+      "quantity": 5,
+      "net_revenue": 7500.0
+    },
+    {
+      "quantity": 16,
+      "net_revenue": 17600.0
+    },
+    {
+      "quantity": 9,
+      "net_revenue": 7200.0
+    },
+    {
+      "quantity": 20,
+      "net_revenue": 6000.0
+    },
+    {
+      "quantity": 13,
+      "net_revenue": 9100.0
+    },
+    {
+      "quantity": 6,
+      "net_revenue": 4800.0
+    }
+  ]
+}
